@@ -44,8 +44,10 @@ da metodologia Scrum.
 
 ## 6. Equipe
 
-Projeto acadêmico individual.
-Dados fictícios utilizados para fins de aprendizagem.
+Projeto acadêmico Equipe
+1. Samuel Cristian Tavares de Alemida
+2. Victor Hugo Borges
+3. Maria Eduarda
 
 ## 7. Execução
 
