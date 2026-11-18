@@ -45,9 +45,9 @@ da metodologia Scrum.
 ## 6. Equipe
 
 Projeto acadêmico Equipe
-1. Samuel Cristian Tavares de Alemida
-2. Victor Hugo Borges
-3. Maria Eduarda
+1. Samuel Cristian Tavares de Alemida (Scrum Master / Tech-Lead)
+2. Victor Hugo Borges (Back-End / Banco de Dados)
+3. Maria Eduarda (Froint-End / Uex-Uix) 
 
 ## 7. Execução
 
