@@ -44,8 +44,10 @@ da metodologia Scrum.
 
 ## 6. Equipe
 
-Projeto acadêmico individual.
-Dados fictícios utilizados para fins de aprendizagem.
+Projeto acadêmico Equipe
+1. Samuel Cristian Tavares de Alemida (Scrum Master / Tech-Lead)
+2. Victor Hugo Borges (Back-End / Banco de Dados)
+3. Maria Eduarda (Froint-End / Uex-Uix) 
 
 ## 7. Execução
 
